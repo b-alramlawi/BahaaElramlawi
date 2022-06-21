@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bahaa Elramlawi.
-- 👀 I’m interested in Flutter, Android development.
-- 🎓 I'm currently studying Computer Science at Islamic University of Gaza.
-- 👨‍💻 Ask me about Flutter and Android Development.
+- 👀 I’m interested in Android development.
+- 🎓 I'm currently studying Computer science at Islamic University of Gaza.
+- 👨‍💻 Ask me about Android Development.
 - 📫 How to reach me: b.elramlawi300@gmail.com
 
 <!---
